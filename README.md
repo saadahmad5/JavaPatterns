@@ -2,7 +2,7 @@
 
 ### Structural Patterns:
 1. Adapter Pattern
-* The Adapter Pattern is useful when you want to make two incompatible interfaces work together. It acts as a bridge between two incompatible interfaces by wrapping an existing class with a new interface. This pattern is particularly handy when you have existing code or libraries that you want to use, but their interfaces are not compatible with the rest of your system.
+* The Adapter Pattern is useful when you want to make two incompatible interfaces work together. It acts as an adapter between two incompatible interfaces by wrapping an existing class with a new interface. This pattern is particularly handy when you have existing code or libraries that you want to use, but their interfaces are not compatible with the rest of your system.
 2. Bridge Pattern:
 * The Bridge Pattern is useful when you want to separate abstraction (an interface) from implementation (concrete classes), allowing them to vary independently. This pattern is particularly handy when you have a complex system with multiple dimensions of variation, and you want to avoid a permanent binding between an abstraction and its implementation.
 3. Composite Pattern:
